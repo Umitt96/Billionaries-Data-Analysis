@@ -7,3 +7,6 @@ Billionaries Data Analysis &amp; EDA
 ![download](https://github.com/user-attachments/assets/8f5275bc-dfa7-44e1-aa21-84cb989a6922)
 
 ![download](https://github.com/user-attachments/assets/de23948d-0fc2-4f64-935f-4c6153d1037b)
+
+and Age Predict with RF algorithms
+![download](https://github.com/user-attachments/assets/36c06b48-1840-40aa-9045-be6483472102)
